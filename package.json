@@ -1,6 +1,6 @@
 {
   "name": "win-vk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get human readable name from Windows Virtual-Key code.",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
