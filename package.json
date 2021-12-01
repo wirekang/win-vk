@@ -1,0 +1,19 @@
+{
+  "name": "win-vk",
+  "version": "1.0.0",
+  "description": "Get human readable name from Windows Virtual-Key code.",
+  "main": "src/index.js",
+  "repository": "https://github.com/wirekang/win-vk",
+  "author": "wirekang <wirekang@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "publish": "yarn tsc && yarn publish"
+  },
+  "files": [
+    "lib"
+  ],
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  }
+}
