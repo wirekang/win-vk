@@ -2,6 +2,8 @@
 
 ## Usage
 
+```yarn add win-vk```
+
 ```typescript
 import {fromVKCode} from "win-vk";
 
